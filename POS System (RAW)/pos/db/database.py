@@ -1,0 +1,1 @@
+# Handles SQLite DB setup and connection
